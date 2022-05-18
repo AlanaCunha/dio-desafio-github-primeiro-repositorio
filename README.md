@@ -1,4 +1,4 @@
-Repositorio do  Desafio de projeto  sobre Git/Github da DIO
-Desafio de Projeto sobre Git/Github
+# Desafio de Projeto  sobre Git/Github da DIO
+Repoosito criado para o desafio  de Prjeto.
 ## Links Uteis
 [Sintaxe Basica Markdown]()
